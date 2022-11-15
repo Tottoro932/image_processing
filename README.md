@@ -2,3 +2,4 @@
 
 dataset for train: https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification
 (we corrected the data and used it to train the network)
+our_clock_full - network test data
